@@ -1,1 +1,1 @@
-# tempnotes
+animation:false
